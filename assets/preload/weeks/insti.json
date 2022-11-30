@@ -1,0 +1,32 @@
+{
+	"storyName": "cyclops vs fatal error",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "insti",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "cyclops",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"instigation",
+			"control",
+			[
+				60,
+				80,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}
