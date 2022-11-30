@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-101,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "St Down"
+		},
+		{
+			"offsets": [
+				-101,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "St idle"
+		},
+		{
+			"offsets": [
+				-101,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "St Left"
+		},
+		{
+			"offsets": [
+				-106,
+				-177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "St Up"
+		},
+		{
+			"offsets": [
+				-100,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "St Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TeacherSonicHapyYay",
+	"position": [
+		-10,
+		170
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.3
+}

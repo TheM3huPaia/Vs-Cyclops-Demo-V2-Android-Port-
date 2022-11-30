@@ -5,59 +5,59 @@
 				-114,
 				-38
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "Idle"
-		},
-		{
-			"offsets": [
-				-108,
-				-36
-			],
 			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Right0"
+			"name": "Bf Idle"
 		},
 		{
 			"offsets": [
 				-114,
 				-36
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "Down0"
+			"indices": [],
+			"name": "Bf Down"
 		},
 		{
 			"offsets": [
 				-108,
 				-34
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Left0"
+			"indices": [],
+			"name": "Bf Left"
 		},
 		{
 			"offsets": [
 				-100,
 				-38
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
+			"indices": [],
+			"name": "Bf Up"
+		},
+		{
+			"offsets": [
+				-108,
+				-36
+			],
 			"loop": false,
-			"name": "Up0"
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bf Right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/HappyBFSprites",
+	"image": "characters/ScoohousBF",
 	"position": [
 		0,
 		350

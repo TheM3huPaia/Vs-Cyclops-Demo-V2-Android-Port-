@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				261,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "death0"
+		},
+		{
+			"offsets": [
+				4,
+				-340
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "death loop"
+		},
+		{
+			"offsets": [
+				68,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "death end"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BfLiverFailureLOADED",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "loadedbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		102,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

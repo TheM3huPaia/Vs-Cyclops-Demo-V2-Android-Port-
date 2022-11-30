@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				24,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cyclops Idle"
+		},
+		{
+			"offsets": [
+				24,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cyclops Down0"
+		},
+		{
+			"offsets": [
+				24,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cyclops Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cyclops Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				67
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cyclops Left0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PixelClops",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pixelclops",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		64,
+		239
+	],
+	"camera_position": [
+		450,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

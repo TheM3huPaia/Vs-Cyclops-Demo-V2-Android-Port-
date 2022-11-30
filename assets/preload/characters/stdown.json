@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-101,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "St Down d"
+		},
+		{
+			"offsets": [
+				-101,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "St idle d"
+		},
+		{
+			"offsets": [
+				-101,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "St Left d"
+		},
+		{
+			"offsets": [
+				-106,
+				-177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "St Up d"
+		},
+		{
+			"offsets": [
+				-100,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "St Right d"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TeacherSonicRACIST",
+	"position": [
+		-10,
+		170
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.3
+}

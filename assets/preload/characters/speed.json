@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-220,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-200,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-471,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-210,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "espalda",
+			"indices": [],
+			"name": "Turn0000"
+		},
+		{
+			"offsets": [
+				-390,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				-220,
+				20
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "espalda2",
+			"indices": [],
+			"name": "Turn0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SPEED_FULL_ASS_SETS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cyclops",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

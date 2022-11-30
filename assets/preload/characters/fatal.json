@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-141,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Fatal Down"
+		},
+		{
+			"offsets": [
+				-101,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Fatal Idle"
+		},
+		{
+			"offsets": [
+				-102,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Fatal Up"
+		},
+		{
+			"offsets": [
+				-138,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Fatal Left"
+		},
+		{
+			"offsets": [
+				-104,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Fatal Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fatal_error",
+	"position": [
+		-10,
+		220
+	],
+	"healthicon": "fatal",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}
