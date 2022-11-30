@@ -2,15 +2,19 @@
 	"storyName": "",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
-	"weekBackground": "poop",
-	"weekBefore": "tutorial",
+	"weekBackground": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"control loaded",
@@ -29,13 +33,18 @@
 				53,
 				255
 			]
+		],
+		[
+			"manipulation",
+			"que",
+			[
+				0,
+				0,
+				0
+			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": ""
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
 }
