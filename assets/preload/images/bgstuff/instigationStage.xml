@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="background.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="background0000" x="0" y="0" width="1680" height="936"/>
+	<SubTexture name="background0001" x="0" y="0" width="1680" height="936"/>
+	<SubTexture name="background0002" x="1680" y="0" width="1680" height="936"/>
+	<SubTexture name="background0003" x="1680" y="0" width="1680" height="936"/>
+	<SubTexture name="background0004" x="0" y="936" width="1680" height="936"/>
+	<SubTexture name="background0005" x="0" y="936" width="1680" height="936"/>
+	<SubTexture name="background0006" x="1680" y="936" width="1680" height="936"/>
+	<SubTexture name="background0007" x="1680" y="936" width="1680" height="936"/>
+	<SubTexture name="background0008" x="0" y="1872" width="1680" height="936"/>
+	<SubTexture name="background0009" x="0" y="1872" width="1680" height="936"/>
+	<SubTexture name="background0010" x="1680" y="1872" width="1680" height="936"/>
+	<SubTexture name="background0011" x="1680" y="1872" width="1680" height="936"/>
+	<SubTexture name="background0012" x="0" y="2808" width="1680" height="936"/>
+	<SubTexture name="background0013" x="0" y="2808" width="1680" height="936"/>
+	<SubTexture name="background0014" x="1680" y="2808" width="1680" height="936"/>
+	<SubTexture name="background0015" x="1680" y="2808" width="1680" height="936"/>
+</TextureAtlas>
