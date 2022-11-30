@@ -1,0 +1,28 @@
+<TextureAtlas imagePath="eyes.png">
+	
+	
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-6.0" frameY="-3.0" height="827.0" name="eyes close0000" width="1420.0" x="0.0" y="2497.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-6.0" frameY="-3.0" height="827.0" name="eyes close0001" width="1420.0" x="0.0" y="2497.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-5.0" frameY="-1.0" height="830.0" name="eyes close0002" width="1423.0" x="1426.0" y="1664.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-5.0" frameY="-1.0" height="830.0" name="eyes close0003" width="1423.0" x="1426.0" y="1664.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-3.0" frameY="0.0" height="833.0" name="eyes close0004" width="1426.0" x="0.0" y="1664.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-3.0" frameY="0.0" height="833.0" name="eyes close0005" width="1426.0" x="0.0" y="1664.0" />
+	<SubTexture height="836.0" name="eyes close0006" width="1429.0" x="1420.0" y="827.0" />
+	<SubTexture height="836.0" name="eyes close0007" width="1429.0" x="1420.0" y="827.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-6.0" frameY="-3.0" height="827.0" name="eyes close0008" width="1420.0" x="0.0" y="827.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-6.0" frameY="-3.0" height="827.0" name="eyes close0009" width="1420.0" x="0.0" y="827.0" />
+	<SubTexture height="827.0" name="eyes idle loop0000" width="1420.0" x="0.0" y="0.0" />
+	<SubTexture height="827.0" name="eyes idle loop0001" width="1420.0" x="0.0" y="0.0" />
+	<SubTexture height="827.0" name="eyes idle loop0002" width="1420.0" x="1420.0" y="0.0" />
+	<SubTexture height="827.0" name="eyes idle loop0003" width="1420.0" x="1420.0" y="0.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-6.0" frameY="-3.0" height="827.0" name="eyes open0000" width="1420.0" x="0.0" y="827.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-6.0" frameY="-3.0" height="827.0" name="eyes open0001" width="1420.0" x="0.0" y="827.0" />
+	<SubTexture height="836.0" name="eyes open0002" width="1429.0" x="1420.0" y="827.0" />
+	<SubTexture height="836.0" name="eyes open0003" width="1429.0" x="1420.0" y="827.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-3.0" frameY="0.0" height="833.0" name="eyes open0004" width="1426.0" x="0.0" y="1664.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-3.0" frameY="0.0" height="833.0" name="eyes open0005" width="1426.0" x="0.0" y="1664.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-5.0" frameY="-1.0" height="830.0" name="eyes open0006" width="1423.0" x="1426.0" y="1664.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-5.0" frameY="-1.0" height="830.0" name="eyes open0007" width="1423.0" x="1426.0" y="1664.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-6.0" frameY="-3.0" height="827.0" name="eyes open0008" width="1420.0" x="0.0" y="2497.0" />
+	<SubTexture frameHeight="836.0" frameWidth="1429.0" frameX="-6.0" frameY="-3.0" height="827.0" name="eyes open0009" width="1420.0" x="0.0" y="2497.0" />
+</TextureAtlas>
