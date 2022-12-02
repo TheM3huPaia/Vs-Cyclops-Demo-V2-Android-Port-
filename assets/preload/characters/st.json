@@ -56,18 +56,18 @@
 			"name": "St Right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/TeacherSonicHapyYay",
 	"position": [
 		-10,
 		170
 	],
-	"healthicon": "face",
+	"healthicon": "teacher",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		102,
+		204,
+		255
 	],
 	"camera_position": [
 		50,

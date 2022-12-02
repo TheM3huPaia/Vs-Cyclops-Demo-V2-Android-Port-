@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				-108,
+				-106,
 				-34
 			],
 			"loop": false,
@@ -36,7 +36,7 @@
 		{
 			"offsets": [
 				-100,
-				-38
+				-37
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-108,
-				-36
+				-114,
+				-37
 			],
 			"loop": false,
 			"fps": 24,
@@ -56,7 +56,7 @@
 			"name": "Bf Right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/ScoohousBF",
 	"position": [
 		0,

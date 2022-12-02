@@ -54,9 +54,28 @@
 			"fps": 24,
 			"name": "idle",
 			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-351,
+				-23
+			],
+			"anim": "stare",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			]
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/LoadedCyclops",
 	"position": [
 		0,

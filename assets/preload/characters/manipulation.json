@@ -23,28 +23,6 @@
 			"indices": []
 		},
 		{
-			"loop": false,
-			"offsets": [
-				-740,
-				139
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Cyclops Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-241,
-				269
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Cyclops Left",
-			"indices": []
-		},
-		{
 			"loop": true,
 			"offsets": [
 				-800,
@@ -65,9 +43,31 @@
 			"fps": 24,
 			"name": "Cyclops Turned",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				279
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cyclops Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-741,
+				159
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cyclops Right",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/CYCLOPS",
 	"position": [
 		-40,
@@ -81,7 +81,7 @@
 		255
 	],
 	"camera_position": [
-		740,
+		650,
 		40
 	],
 	"sing_duration": 6.1,

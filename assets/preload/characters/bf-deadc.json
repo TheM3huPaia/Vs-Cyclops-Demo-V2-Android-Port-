@@ -2,54 +2,54 @@
 	"animations": [
 		{
 			"offsets": [
-				261,
-				-340
+				-169,
+				-200
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "firstDeath",
 			"indices": [],
-			"name": "death0"
+			"name": "bf dies0"
 		},
 		{
 			"offsets": [
-				8,
-				-340
+				-191,
+				-392
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "deathLoop",
 			"indices": [],
-			"name": "death loop"
+			"name": "bf dies loop"
 		},
 		{
 			"offsets": [
-				65,
-				-352
+				-252,
+				-392
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
-			"name": "death end"
+			"name": "bf dies end"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/BfLiverFailureLOADED",
+	"image": "characters/bf_kidney_failure",
 	"position": [
 		0,
-		350
+		80
 	],
-	"healthicon": "loadedbf",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		102,
-		204
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		-10,
-		70
+		-440,
+		260
 	],
 	"sing_duration": 6.1,
 	"scale": 1.1

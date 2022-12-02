@@ -1,62 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-141,
 				-171
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Fatal Down"
+			"fps": 24,
+			"name": "Fatal Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-101,
 				-171
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Fatal Idle"
+			"fps": 24,
+			"name": "Fatal Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-102,
 				-171
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Fatal Up"
+			"fps": 24,
+			"name": "Fatal Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-138,
 				-171
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Fatal Left"
+			"fps": 24,
+			"name": "Fatal Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-104,
 				-171
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Fatal Right"
+			"fps": 24,
+			"name": "Fatal Right",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/fatal_error",
 	"position": [
 		-10,

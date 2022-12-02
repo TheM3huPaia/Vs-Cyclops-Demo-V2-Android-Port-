@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				957,
-				-253
+				-254
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				870,
-				-150
+				880,
+				-144
 			],
 			"loop": false,
 			"fps": 24,
@@ -37,7 +37,7 @@
 			"loop": false,
 			"offsets": [
 				975,
-				-212
+				-214
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				827,
-				-71
+				813,
+				-80
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -59,8 +59,8 @@
 	"no_antialiasing": true,
 	"image": "characters/LOADED_BF",
 	"position": [
-		0,
-		0
+		530,
+		20
 	],
 	"healthicon": "loadedbf",
 	"flip_x": true,
@@ -70,8 +70,8 @@
 		204
 	],
 	"camera_position": [
-		650,
-		70
+		606,
+		210
 	],
 	"sing_duration": 6.1,
 	"scale": 1.2

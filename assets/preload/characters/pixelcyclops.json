@@ -18,17 +18,6 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Cyclops Down0"
-		},
-		{
-			"offsets": [
-				24,
-				67
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
 			"name": "Cyclops Up0"
@@ -54,9 +43,53 @@
 			"fps": 24,
 			"name": "Cyclops Left0",
 			"indices": []
+		},
+		{
+			"offsets": [
+				24,
+				66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Cyclops Death0"
+		},
+		{
+			"offsets": [
+				24,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Cyclops Down0"
+		},
+		{
+			"offsets": [
+				-210,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "Cyclops Death Loop"
+		},
+		{
+			"offsets": [
+				-210,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Cyclops Death End"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/PixelClops",
 	"position": [
 		0,
@@ -74,5 +107,5 @@
 		-190
 	],
 	"sing_duration": 4,
-	"scale": 4
+	"scale": 4.3
 }

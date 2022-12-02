@@ -2,62 +2,62 @@
 	"animations": [
 		{
 			"offsets": [
-				-101,
-				-171
+				-151,
+				-141
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
 			"indices": [],
-			"name": "St Down d"
-		},
-		{
-			"offsets": [
-				-101,
-				-171
-			],
-			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "St idle d"
+			"loop": false,
+			"name": "Idle"
 		},
 		{
 			"offsets": [
-				-101,
-				-171
+				-153,
+				-154
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "St Left d"
+			"loop": false,
+			"name": "Left"
 		},
 		{
 			"offsets": [
-				-106,
-				-177
+				-157,
+				-149
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "St Up d"
+			"loop": false,
+			"name": "Up"
 		},
 		{
 			"offsets": [
-				-100,
+				-190,
 				-170
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-181,
+				-111
+			],
 			"indices": [],
-			"name": "St Right d"
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Down"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/TeacherSonicRACIST",
+	"image": "characters/TEACHER_SONIC",
 	"position": [
 		-10,
 		170
