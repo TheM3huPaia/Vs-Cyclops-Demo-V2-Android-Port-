@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownMiss0000" x="0" y="0" width="320" height="320" frameX="-2" frameY="0" frameWidth="320" frameHeight="320"/>
+	<SubTexture name="DownMiss0001" x="0" y="0" width="320" height="320" frameX="-2" frameY="0" frameWidth="320" frameHeight="320"/>
+	<SubTexture name="DownMiss0002" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0003" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0004" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0005" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0006" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0007" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0008" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0009" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0010" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0011" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0012" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownMiss0013" x="960" y="640" width="320" height="320" frameX="0" frameY="-1" frameWidth="322" frameHeight="321"/>
+	<SubTexture name="DownPose0000" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0001" x="0" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0002" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0003" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0004" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0005" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0006" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0007" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0008" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0009" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0010" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0011" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0012" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="DownPose0013" x="320" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0000" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0001" x="640" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0002" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0003" x="960" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0004" x="1280" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0005" x="1280" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0006" x="1600" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0007" x="1600" y="0" width="320" height="320"/>
+	<SubTexture name="Idle0008" x="0" y="320" width="320" height="320"/>
+	<SubTexture name="Idle0009" x="0" y="320" width="320" height="320"/>
+	<SubTexture name="Idle0010" x="320" y="320" width="320" height="320"/>
+	<SubTexture name="Idle0011" x="320" y="320" width="320" height="320"/>
+	<SubTexture name="Idle0012" x="640" y="320" width="320" height="320"/>
+	<SubTexture name="Idle0013" x="640" y="320" width="320" height="320"/>
+	<SubTexture name="LeftMiss0000" x="960" y="320" width="320" height="320"/>
+	<SubTexture name="LeftMiss0001" x="960" y="320" width="320" height="320"/>
+	<SubTexture name="LeftMiss0002" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0003" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0004" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0005" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0006" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0007" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0008" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0009" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0010" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0011" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0012" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftMiss0013" x="1280" y="640" width="320" height="320"/>
+	<SubTexture name="LeftPose0000" x="960" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0001" x="960" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0002" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0003" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0004" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0005" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0006" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0007" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0008" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0009" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0010" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0011" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0012" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="LeftPose0013" x="1280" y="320" width="320" height="320"/>
+	<SubTexture name="RightMiss0000" x="1600" y="320" width="320" height="320"/>
+	<SubTexture name="RightMiss0001" x="1600" y="320" width="320" height="320"/>
+	<SubTexture name="RightMiss0002" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0003" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0004" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0005" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0006" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0007" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0008" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0009" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0010" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0011" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0012" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightMiss0013" x="1600" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0000" x="1600" y="320" width="320" height="320"/>
+	<SubTexture name="RightPose0001" x="1600" y="320" width="320" height="320"/>
+	<SubTexture name="RightPose0002" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0003" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0004" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0005" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0006" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0007" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0008" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0009" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0010" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0011" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0012" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="RightPose0013" x="0" y="640" width="320" height="320"/>
+	<SubTexture name="UpMiss0000" x="320" y="640" width="320" height="320"/>
+	<SubTexture name="UpMiss0001" x="320" y="640" width="320" height="320"/>
+	<SubTexture name="UpMiss0002" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0003" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0004" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0005" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0006" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0007" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0008" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0009" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0010" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0011" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0012" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpMiss0013" x="0" y="960" width="320" height="320"/>
+	<SubTexture name="UpPose0000" x="320" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0001" x="320" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0002" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0003" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0004" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0005" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0006" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0007" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0008" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0009" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0010" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0011" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0012" x="640" y="640" width="320" height="320"/>
+	<SubTexture name="UpPose0013" x="640" y="640" width="320" height="320"/>
+</TextureAtlas>
