@@ -1,15 +1,28 @@
 function onCreate()
     setPropertyFromClass('lime.app.Application', 'current.window.title', "Speed.Gif rom Level : Control 2")
-    setProperty('timeBar.visible', false)
-    setProperty('timeBarBG.visible', false)
-    setTextColor('scoreTxt', '00004A')
-    setTextColor('timeTxt', '00004A')
+    setProperty('timeBG.visible', false)
+    setProperty('timeTxt.visible', false)
+    makeLuaSprite('loadd', 'bgstuff/black', -1500, -600)
+    scaleObject('loadd', 99.0, 99.0)
+    setObjectCamera('loadd','other')
+    addLuaSprite('loadd', false)
+    setTextFont("scoreTxt","sonic-the-hedgehog.ttf");
+    setTextFont("timeTxt","sonic-the-hedgehog.ttf");
+end
+
+function onDestroy()
+	setPropertyFromClass("openfl.Lib","application.window.title", "Speed.Gif")
+end
+
+function onCreatePost()
+	setProperty('timeBar.color', getColorFromHex('00004A'))
+
 end
 
 function opponentNoteHit()
        health = getProperty('health')
     if getProperty('health') > 0.1 then
-       setProperty('health', health- 0.0195);
+       setProperty('health', health- 0.0232);
 	end
 end
 

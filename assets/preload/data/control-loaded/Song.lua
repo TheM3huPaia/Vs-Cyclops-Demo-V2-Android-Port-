@@ -3,4 +3,5 @@ makeLuaText('watermark', songName .. " | Port Psych Engine", 0, 10, 14); -- You 
     setTextSize('watermark', 21);
     addLuaText('watermark');
     setTextColor('watermark', '00004A')
+    setTextFont("watermark","sonic-the-hedgehog.ttf");
 end
