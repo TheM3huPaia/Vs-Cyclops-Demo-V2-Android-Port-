@@ -3,18 +3,14 @@
 	"difficulties": "Normal",
 	"hideFreeplay": true,
 	"weekBackground": "insti",
+	"weekBefore": "eschool",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "cyclops",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"instigation",
@@ -26,7 +22,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
 }

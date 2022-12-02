@@ -1,4 +1,16 @@
 {
+	"storyName": "speed.gif",
+	"difficulties": "Normal,loaded",
+	"hideFreeplay": true,
+	"weekBackground": "speed",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"control",
@@ -10,23 +22,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": true,
-	"weekBackground": "speed",
-	"difficulties": "Normal",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "speed.gif",
-	"weekName": "",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
 }

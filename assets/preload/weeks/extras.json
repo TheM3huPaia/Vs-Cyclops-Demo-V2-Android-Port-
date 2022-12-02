@@ -1,41 +1,19 @@
 {
-	"storyName": "",
+	"storyName": "welcome to sonic's schoolhouse",
 	"difficulties": "Normal",
-	"hideFreeplay": false,
-	"weekBackground": "",
+	"hideFreeplay": true,
+	"weekBackground": "school",
+	"weekBefore": "cyclops",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
-			"control loaded",
-			"control",
-			[
-				60,
-				80,
-				215
-			]
-		],
-		[
 			"schoolhouse",
-			"school",
-			[
-				106,
-				53,
-				255
-			]
-		],
-		[
-			"manipulation",
 			"que",
 			[
 				0,
@@ -44,7 +22,11 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "St"
 }
