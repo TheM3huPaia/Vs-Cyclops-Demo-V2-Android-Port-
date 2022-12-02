@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Miniclops Stomp.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Miniclops Stomp0000" x="0" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0001" x="0" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0002" x="0" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0003" x="210" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0004" x="210" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0005" x="210" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0006" x="420" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0007" x="420" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0008" x="420" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0009" x="630" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0010" x="630" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0011" x="630" y="0" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0012" x="0" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0013" x="0" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0014" x="0" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0015" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0016" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0017" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0018" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0019" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0020" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0021" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0022" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0023" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0024" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0025" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0026" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0027" x="210" y="303" width="210" height="303"/>
+	<SubTexture name="Miniclops Stomp0028" x="210" y="303" width="210" height="303"/>
+</TextureAtlas>

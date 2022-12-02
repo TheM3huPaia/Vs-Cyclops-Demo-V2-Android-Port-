@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credit0000" x="1" y="1" width="144" height="21"/>
+	<SubTexture name="credit flash0000" x="1" y="1" width="144" height="21"/>
+	<SubTexture name="credit flash0001" x="291" y="67" width="144" height="21"/>
+	<SubTexture name="credit yellow0000" x="146" y="1" width="144" height="21"/>
+	<SubTexture name="extras0000" x="291" y="1" width="144" height="21"/>
+	<SubTexture name="extras LOCKED0000" x="1" y="23" width="144" height="21"/>
+	<SubTexture name="extras flash0000" x="291" y="1" width="144" height="21"/>
+	<SubTexture name="extras flash0001" x="291" y="67" width="144" height="21"/>
+	<SubTexture name="extras yellow0000" x="146" y="23" width="144" height="21"/>
+	<SubTexture name="settings0000" x="291" y="23" width="144" height="21"/>
+	<SubTexture name="settings flash0000" x="291" y="23" width="144" height="21"/>
+	<SubTexture name="settings flash0001" x="291" y="67" width="144" height="21"/>
+	<SubTexture name="settings yellow0000" x="1" y="45" width="144" height="21"/>
+	<SubTexture name="sound0000" x="146" y="45" width="144" height="21"/>
+	<SubTexture name="sound LOCKED0000" x="291" y="45" width="144" height="21"/>
+	<SubTexture name="sound flash0000" x="146" y="45" width="144" height="21"/>
+	<SubTexture name="sound flash0001" x="291" y="67" width="144" height="21"/>
+	<SubTexture name="sound yellow0000" x="1" y="67" width="144" height="21"/>
+	<SubTexture name="start0000" x="146" y="67" width="144" height="21"/>
+	<SubTexture name="start flash0000" x="146" y="67" width="144" height="21"/>
+	<SubTexture name="start flash0001" x="291" y="67" width="144" height="21"/>
+	<SubTexture name="start yellow0000" x="1" y="89" width="144" height="21"/>
+</TextureAtlas>
