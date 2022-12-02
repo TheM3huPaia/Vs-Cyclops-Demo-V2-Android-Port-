@@ -4,9 +4,10 @@ function onEvent(name, value1, value2)
     local var aughgh = tonumber(value2)
     if name == "Fuck Your Health" then
         if hideme == 1 then
-            doTweenAlpha('fuckYourHealthTween','healthBar', 0, 0.3, 'linear')
-            doTweenAlpha('fuckYourHealthIconP1Tween','iconP1', 0, 0.3, 'linear')
-            doTweenAlpha('fuckYourHealthIconP2Tween','iconP2', 0, 0.3, 'linear')
+            doTweenAlpha('fuckYourHealthTween','healthBar', 0, 0.01, 'linear')
+            doTweenAlpha('fuckYourHealthIconP1Tween','iconP1', 0, 0.01, 'linear')
+            doTweenAlpha('fuckYourHealthIconP2Tween','iconP2', 0, 0.01, 'linear')
+	    setProperty('barr.alpha',0)
 function noteMiss(id, direction, noteType, isSustainNote)
 setProperty('health', 0)
 end
