@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="highresicons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="controlloaded0000" x="10" y="10" width="660" height="660"/>
+	<SubTexture name="instigation0000" x="755" y="10" width="666" height="660"/>
+	<SubTexture name="questionmark0000" x="10" y="755" width="666" height="660"/>
+	<SubTexture name="schoolhouse0000" x="761" y="755" width="660" height="660"/>
+</TextureAtlas>

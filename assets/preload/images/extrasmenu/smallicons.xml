@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smallicons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="houseschool0000" x="10" y="10" width="341" height="370"/>
+	<SubTexture name="investigation0000" x="436" y="10" width="341" height="370"/>
+	<SubTexture name="loadedcontrol0000" x="862" y="10" width="341" height="370"/>
+	<SubTexture name="que0000" x="1288" y="10" width="341" height="370"/>
+	<SubTexture name="select0000" x="10" y="465" width="371" height="400"/>
+</TextureAtlas>
